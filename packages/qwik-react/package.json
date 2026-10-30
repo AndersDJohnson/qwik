@@ -28,7 +28,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.8.3",
-    "vite": "3.1.1"
+    "vite": "6.4.5"
   },
   "peerDependencies": {
     "@builder.io/qwik": ">=0.0.38",
